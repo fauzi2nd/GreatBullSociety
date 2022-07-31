@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2E928E0c70396a6C2e660eB7Cb3a11003bFBF8Cf",
+  "SCAN_LINK": "https://polygonscan.com/token/0x2E928E0c70396a6C2e660eB7Cb3a11003bFBF8Cf",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Great Bull Society",
+  "SYMBOL": "BULL",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/great-bull-society",
+  "SHOW_BACKGROUND": true
+}
