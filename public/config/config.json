@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 10000,
   "WEI_COST": 2000000000000000000,
   "DISPLAY_COST": 2,
-  "GAS_LIMIT": 285000,
+  "GAS_LIMIT": 4000000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/great-bull-society",
   "SHOW_BACKGROUND": true
